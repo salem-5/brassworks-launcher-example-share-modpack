@@ -15,7 +15,7 @@
 
 ## Play this pack
 
-The quickest way is one click: open [this install link](https://brassworks.opnsoc.org/install?pack_url=https%3A%2F%2Fraw.githubusercontent.com%2Fsalem-5%2Fbrassworks-launcher-example-share-modpack%2Fmain%2Fpack.toml&name=Brassworks+Launcher+Example+Share+Modpack&unsup=true&shared_by=swzo&icon=https%3A%2F%2Fraw.githubusercontent.com%2Fsalem-5%2Fbrassworks-launcher-example-share-modpack%2Fmain%2Ficon.png) and Brassworks sets everything up for you, then keeps it up to date on its own.
+The quickest way is one click: open [this install link](https://brassworks.opnsoc.org/install?pack_url=https%3A%2F%2Fraw.githubusercontent.com%2Fsalem-5%2Fbrassworks-launcher-example-share-modpack%2Fmain%2Fpack.toml&name=Brassworks+Launcher+Example+Share+Modpack&unsup=true&shared_by=swzo&icon=https%3A%2F%2Fraw.githubusercontent.com%2Fsalem-5%2Fbrassworks-launcher-example-share-modpack%2Fmain%2Ficon.png&description=An+Example+Shared+Modpack+for+the+brassworks+launcher&news_url=https%3A%2F%2Fraw.githubusercontent.com%2Fsalem-5%2Fbrassworks-launcher-example-share-modpack%2Fmain%2Fnews.json&playercount_url=brassworks.opnsoc.org&min_memory_mb=512&max_memory_mb=4096&jvm_args=-XX%3A%2BUseG1GC+-XX%3A%2BUnlockExperimentalVMOptions+-XX%3AG1NewSizePercent%3D20+-XX%3AG1ReservePercent%3D20+-XX%3AMaxGCPauseMillis%3D50+-XX%3AG1HeapRegionSize%3D32M) and Brassworks sets everything up for you, then keeps it up to date on its own.
 
 Rather do it by hand? Install the [Brassworks Launcher](https://github.com/brassworks-smp), choose **Add Instance**, pick **packwiz**, and paste in this manifest URL:
 

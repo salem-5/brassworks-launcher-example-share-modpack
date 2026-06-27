@@ -1,15 +1,17 @@
 {
   "pack_url": "https://raw.githubusercontent.com/salem-5/brassworks-launcher-example-share-modpack/main/pack.toml",
   "name": "Brassworks Launcher Example Share Modpack",
-  "description": null,
+  "description": "An Example Shared Modpack for the brassworks launcher",
   "unsup": true,
   "shared_by": "swzo",
   "icon": "https://raw.githubusercontent.com/salem-5/brassworks-launcher-example-share-modpack/main/icon.png",
   "banner": null,
   "signing_key": null,
-  "news_url": null,
-  "playercount_url": null,
-  "min_memory_mb": null,
-  "max_memory_mb": null,
-  "jvm_args": null
+  "news_url": "https://raw.githubusercontent.com/salem-5/brassworks-launcher-example-share-modpack/main/news.json",
+  "playercount_url": "brassworks.opnsoc.org",
+  "min_memory_mb": 512,
+  "max_memory_mb": 4096,
+  "jvm_args": [
+    "-XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M"
+  ]
 }

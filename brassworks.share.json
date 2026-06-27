@@ -4,7 +4,7 @@
   "format": "packwiz",
   "pack_name": "Brassworks Launcher Example Share Modpack",
   "author": "",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "selection": {
     "mods": [
       "shaderpacks/BSL_v10.1.3.zip",
@@ -66,13 +66,18 @@
   "sign": false,
   "sign_format": "signify",
   "params": {
-    "author": null,
-    "description": null,
-    "min_memory_mb": null,
-    "max_memory_mb": null,
-    "jvm_args": [],
-    "news_url": null,
-    "playercount_url": null,
-    "news": null
+    "author": "swzo",
+    "description": "An Example Shared Modpack for the brassworks launcher",
+    "min_memory_mb": 512,
+    "max_memory_mb": 4096,
+    "jvm_args": [
+      "-XX:+UseG1GC -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M"
+    ],
+    "news_url": "https://raw.githubusercontent.com/salem-5/brassworks-launcher-example-share-modpack/main/news.json",
+    "playercount_url": "brassworks.opnsoc.org",
+    "news": {
+      "title": "Example Pack",
+      "body": "This is an example pack by swzo"
+    }
   }
 }
