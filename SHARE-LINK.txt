@@ -1,0 +1,1 @@
+https://brassworks.opnsoc.org/install?pack_url=https%3A%2F%2Fraw.githubusercontent.com%2Fsalem-5%2Fbrassworks-launcher-example-share-modpack%2Fmain%2Fpack.toml&name=Brassworks+Launcher+Example+Share+Modpack&unsup=true&shared_by=swzo&icon=https%3A%2F%2Fraw.githubusercontent.com%2Fsalem-5%2Fbrassworks-launcher-example-share-modpack%2Fmain%2Ficon.png

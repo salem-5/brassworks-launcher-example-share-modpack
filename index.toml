@@ -1,0 +1,31 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/create-1-21-1-6-0-10.pw.toml"
+hash = "e9ad0b607d89f85b27ec14444b10ff6952cfdb79c6e6f0be4e3e61110b62e1f7"
+metafile = true
+
+[[files]]
+file = "mods/iris-neoforge-1-8-14-beta-1-mc1-21-1.pw.toml"
+hash = "064f8ee970317106e1f36f32f4bb412b45d87a3e5ecfedb90f06b899e6952454"
+metafile = true
+
+[[files]]
+file = "mods/sodium-neoforge-0-8-12-beta-2-mc1-21-1.pw.toml"
+hash = "a758b7b09a8e1c27fa4af0883f3a6d916b98e98ecf71bd277661674f93a308af"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-v10-1-3.pw.toml"
+hash = "08ca400ac93816171bf04a0f8a8ef7ecc6d2e95ca57525c9de3b5b1465391e6e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementaryreimagined-r5-8-1.pw.toml"
+hash = "716f0c4ae3c474437dfd161c8ccc68a1f2420118339e9b777864c895b78e7c4c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementaryunbound-r5-8-1.pw.toml"
+hash = "b0dd17cdbb1494456277319a284cbc9f73fdcb1839564bcc3baf915010dc098e"
+metafile = true

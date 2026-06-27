@@ -1,0 +1,15 @@
+{
+  "pack_url": "https://raw.githubusercontent.com/salem-5/brassworks-launcher-example-share-modpack/main/pack.toml",
+  "name": "Brassworks Launcher Example Share Modpack",
+  "description": null,
+  "unsup": true,
+  "shared_by": "swzo",
+  "icon": "https://raw.githubusercontent.com/salem-5/brassworks-launcher-example-share-modpack/main/icon.png",
+  "banner": null,
+  "signing_key": null,
+  "news_url": null,
+  "playercount_url": null,
+  "min_memory_mb": null,
+  "max_memory_mb": null,
+  "jvm_args": null
+}

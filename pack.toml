@@ -1,0 +1,14 @@
+name = "Brassworks Launcher Example Share Modpack"
+author = ""
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "801d935f4bc1b582976160dbc96de090ff44c50f63154b72559e9c0477748240"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = ""
+unsup = "1.2.5"
