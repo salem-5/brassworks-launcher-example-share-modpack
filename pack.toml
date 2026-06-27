@@ -1,6 +1,6 @@
 name = "Brassworks Launcher Example Share Modpack"
 author = "swzo"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
